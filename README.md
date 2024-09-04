@@ -1,7 +1,8 @@
 # custompage-playground
 Power Apps model-driven playground solution for testing different custom page capabilities.
 
-Shout-out to Benedikt Bergmann for generic script example
+Shout-out to Benedikt Bergmann for generic script example!
+
 https://benediktbergmann.eu/2023/08/15/generic-ts-js-to-open-a-custom-page/
 
 ## 1. Import solution
@@ -25,5 +26,6 @@ Init record with these values:
 | Icon | WebResources/cat_ic_fluent_flash_28_regular |
 
 ## 3. Start play with playground
-Open custom page from command bar with different parameters to test it out
-Navigate forward from custom page using defined buttons and test how navigation path works
+Open custom page from command bar with different parameters to test it out.
+
+Navigate forward from custom page using defined buttons and test how navigation path works.
